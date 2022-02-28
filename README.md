@@ -1,6 +1,6 @@
 # desafio-poo-dio
 
-Projeto desenvolvido durante o Bootcamp GFT#5 Java
+Projeto desenvolvido durante o Bootcamp GFT#4 Java
 
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
